@@ -1,6 +1,6 @@
 # 🧠 Text Summarization Tool
 
-A smart, clean, and fast **Text Summarization Tool** built using **HTML**, **CSS**, **JavaScript**, and **Python** for logic inspiration. This tool helps reduce lengthy paragraphs into clear, easy-to-read summaries.
+  A smart, clean, and fast **Text Summarization Tool** built using **HTML**, **CSS**, **JavaScript**, and **Python** for logic inspiration. This tool helps reduce    lengthy paragraphs into clear, easy-to-read summaries.
 
 ---
 
