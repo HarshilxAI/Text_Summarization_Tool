@@ -1,46 +1,57 @@
-# 🧠 Text Summarization Tool
+# 📝 Text Summarization Tool
 
-  A smart, clean, and fast **Text Summarization Tool** built using **HTML**, **CSS**, **JavaScript**, and **Python** for logic inspiration. This tool helps reduce    lengthy paragraphs into clear, easy-to-read summaries.
-
----
-
-## 🚀 Features
-
-- Summarizes long paragraphs with ease  
-- Provides easy-to-understand results  
-- Pure **HTML**, **CSS**, and **JavaScript** implementation  
-- Inspired by Python logic (no backend required)  
-- Dark-themed UI with sleek animations  
+A simple yet powerful tool that summarizes long paragraphs using JavaScript-based logic and NLP principles. Built as part of an internship task.
 
 ---
 
-## 🌐 Live Demo
-
-[![Demo](https://img.shields.io/badge/Click%20Here%20for%20Demo-Text%20Summarizer-brightgreen?style=for-the-badge&logo=netlify)](https://text-summarizer-denny.netlify.app/)
-
+**🚀 Live Demo**  
+<a href="https://text-summarizer-denny.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Click%20Here%20for%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo">
+</a>
 
 ---
 
-## 🛠️ Built With
+**✨ Features**  
+- Summarizes large paragraphs into concise and readable summaries  
+- Handles redundant phrases and simplifies complex terms  
+- Gives instant feedback and adjusts UI dynamically  
 
+---
+
+**🛠️ Tech Stack**
+
+**🌐 Frontend**  
 - HTML  
 - CSS  
 - JavaScript  
-- Python (logic design & flow)
+
+**⚙️ Backend (Earlier Python Version)**  
+- Python *(initially designed)*  
+- Flask *(not currently used in this version)*  
+
+**📚 Libraries / APIs**  
+- No external APIs used in final build  
+- Custom JS-based summarization logic  
+- Hugging Face & PyTorch used in earlier iterations  
 
 ---
 
-## 🙌 Contribution
-
-Suggestions, improvements, and pull requests are welcome!
-
----
-
-## 📬 Contact
-If you have any feedback, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/harshil-gurjar23/)
+**📘 What I Learned**  
+- How to simplify content using keyword-based summarization  
+- Real-time UI interaction with JavaScript  
+- Hosting projects using Netlify  
+- Connecting frontend with Python backend (in earlier versions)  
 
 ---
 
-⭐ If you like this project, don’t forget to star it!
+**🤝 Contributions**  
+This project was solely built and managed by me during my internship assignment.
+
+---
+
+**👤 Owner** - **Harshil Gurjar**
 
 
+**📬 Contact**  
+📧 Gmail: [hdgurjar2323@gmail.com](mailto:hdgurjar2323@gmail.com)  
+🔗 LinkedIn: [Harshil Gurjar](https://www.linkedin.com/in/harshil-gurjar23/)
