@@ -12,7 +12,7 @@ def index():
 @app.route('/summarize', methods=['POST'])
 def summarize():
     data = request.get_json()
-    text = data.get("text", "")
+    text = data.get("text", "")  
     if not text.strip():
         return jsonify({"summary": "Please enter valid text to summarize."})
     summary = summarizer(text, max_length=60, min_length=20, do_sample=False)
