@@ -7,7 +7,7 @@ function summarizeText() {
     return;
   }
 
-  // Basic fake summarization logic
+
   let summary = inputText;
 
    const replacements = {
