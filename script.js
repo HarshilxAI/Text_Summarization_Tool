@@ -3,7 +3,7 @@ function summarizeText() {
   const summaryOutput = document.getElementById("summaryOutput");
 
   if (!inputText) {
-    summaryOutput.textContent = "⚠️ Please enter a paragraph first.";
+    summaryOutput.textContent = " Please enter a paragraph first ⚠️ ";
     return;
   }
 
